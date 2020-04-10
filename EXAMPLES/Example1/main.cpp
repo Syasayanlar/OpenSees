@@ -187,7 +187,7 @@ int main(int argc, char **argv)
     theAnalysis.analyze(numSteps);
     opserr << *theDomain;
     // comment added new
-    // second ling of code
+    // second ling of code2
     exit(0);
 }	
 	
