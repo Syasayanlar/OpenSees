@@ -186,7 +186,7 @@ int main(int argc, char **argv)
     int numSteps = 1;
     theAnalysis.analyze(numSteps);
     opserr << *theDomain;
-
+    // comment added
     exit(0);
 }	
 	
